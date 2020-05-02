@@ -1,0 +1,19 @@
+
+server:
+  port:8081
+
+spring:
+  applicatin:
+    name: dm-user-consumer
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:123456@localhost:7776/eureka/
+
+
+
+feign:
+  hystrix:
+    enabled: true
