@@ -3,7 +3,7 @@ server:
 
 spring:
   applicatin:
-    name: dm-user-provider
+    name: miyu-user-provider
 
 
 eureka:

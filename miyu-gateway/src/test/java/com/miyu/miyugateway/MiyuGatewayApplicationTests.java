@@ -1,10 +1,10 @@
-package com.miyu.registercenter;
+package com.miyu.miyugateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RegistercenterApplicationTests {
+class MiyuGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,0 +1,22 @@
+
+spring:
+  application:
+    name: miyu-gateway
+
+server:
+  port: 7600
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:123456@localhost:7776/eureka
+
+
+zuul:
+  routes:
+    miyu-user-consumer: /user/**
+
+management:
+  security:
+    enabled: false

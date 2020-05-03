@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.miyu</groupId>
-	<artifactId>eurekaclient</artifactId>
+	<artifactId>miyu-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eurekaclient</name>
+	<name>miyu-gateway</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -26,15 +26,43 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.miyu</groupId>
-			<artifactId>miyu-common</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-zuul</artifactId>
 		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-config</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+			<exclusions>
+				<exclusion>
+					<groupId>org.junit.vintage</groupId>
+					<artifactId>junit-vintage-engine</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-autoconfigure</artifactId>
+			<version>2.2.2.RELEASE</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-autoconfigure</artifactId>
+			<version>2.2.2.RELEASE</version>
+			<scope>compile</scope>
 		</dependency>
 	</dependencies>
 

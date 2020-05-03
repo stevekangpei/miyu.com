@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: miyu-config-server
+  cloud:
+    config:
+      server:
+        git:
+          url: https://gitee.com/stevekangpei/miyu-config.git
+          username: stevekangp@outlook.com
+          password: 123456
+          search-paths: config-file
+server:
+  port: 7900
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:123456@localhost:7776/eureka
+
+

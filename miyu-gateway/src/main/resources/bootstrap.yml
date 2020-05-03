@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: miyu-geteway-zuul
+
+  cloud:
+    config:
+      uri: http://localhost:7900
+      profile: dev
+      label: master
+
+
+# 配置config-server的地址
+
+# application name + profile版本 （dev 开发，prod，生产） + 分支。

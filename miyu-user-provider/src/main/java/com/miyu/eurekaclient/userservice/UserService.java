@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 public class UserService {
-
     @RequestMapping(value = "/login", method = RequestMethod.GET)
     public String login() throws  Exception {
 

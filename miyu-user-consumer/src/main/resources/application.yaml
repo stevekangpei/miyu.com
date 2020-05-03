@@ -4,7 +4,7 @@ server:
 
 spring:
   applicatin:
-    name: dm-user-consumer
+    name: miyu-user-consumer
 
 
 eureka:
@@ -17,3 +17,8 @@ eureka:
 feign:
   hystrix:
     enabled: true
+
+
+dm-user-prodiver:
+  ribbon:
+    NFLoadBanancerRuleClassName: com.netflix.loadbalancer.RandomRule
