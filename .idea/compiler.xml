@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaclient" />
+        <module name="miyu-registercenter" />
+        <module name="miyu-common-ext-utils" />
+        <module name="miyu-common-utils" />
+        <module name="miyu-common-dto" />
+        <module name="miyu-item-provider" />
+        <module name="miyu-config" />
+        <module name="miyu-common-dao" />
+        <module name="miyu-base-provider" />
+        <module name="miyu-base-consumer" />
+        <module name="miyu-user-provider" />
+        <module name="miyu-common-model" />
+        <module name="miyu-user-consumer" />
+        <module name="miyu-schedule-provider" />
+        <module name="miyu-order-provider" />
+        <module name="dm-user-consumer" />
+        <module name="miyu-common-client" />
+        <module name="registercenter" />
+        <module name="miyu-zipkin-server" />
+        <module name="miyu-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dm-user-consumer" target="1.8" />
+      <module name="eurekaclient" target="1.8" />
+      <module name="miyu-base-consumer" target="1.8" />
+      <module name="miyu-base-provider" target="1.8" />
+      <module name="miyu-common-client" target="1.5" />
+      <module name="miyu-common-dao" target="1.5" />
+      <module name="miyu-common-dto" target="1.5" />
+      <module name="miyu-common-ext-utils" target="1.5" />
+      <module name="miyu-common-model" target="1.5" />
+      <module name="miyu-common-utils" target="1.5" />
+      <module name="miyu-config" target="1.8" />
+      <module name="miyu-gateway" target="1.8" />
+      <module name="miyu-item-provider" target="1.8" />
+      <module name="miyu-order-provider" target="1.8" />
+      <module name="miyu-registercenter" target="1.8" />
+      <module name="miyu-schedule-provider" target="1.8" />
+      <module name="miyu-user-consumer" target="1.8" />
+      <module name="miyu-user-provider" target="1.8" />
+      <module name="miyu-zipkin-server" target="1.8" />
+      <module name="registercenter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="miyu-base-consumer" options="" />
+      <module name="miyu-zipkin-server" options="" />
+    </option>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package com.miyu.model;
+package com.miyu.pojo;
 
 public class User {
 

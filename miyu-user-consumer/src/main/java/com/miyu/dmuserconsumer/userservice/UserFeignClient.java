@@ -1,7 +1,7 @@
 package com.miyu.dmuserconsumer.userservice;
 
 import com.miyu.dmuserconsumer.userservice.impl.UserFeignClientFallback;
-import com.miyu.model.User;
+import com.miyu.pojo.User;
 import org.springframework.cloud.netflix.feign.FeignClient;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

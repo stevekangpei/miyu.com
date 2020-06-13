@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/miyu-base-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-base-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-item-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-order-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-registercenter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-schedule-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-user-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-user-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/miyu-zipkin-server/src/main/java" charset="UTF-8" />
+  </component>
+</project>

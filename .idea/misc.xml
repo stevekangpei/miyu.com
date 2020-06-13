@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/registercenter/pom.xml" />
+        <option value="$PROJECT_DIR$/dm-user-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dm-user-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-common/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-registercenter/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-user-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-user-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-config/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-common-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-common-model/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-common-client/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-base-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-item-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-order-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-schedule-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-base-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-common-dto/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-common-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/miyu-common-ext-utils/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

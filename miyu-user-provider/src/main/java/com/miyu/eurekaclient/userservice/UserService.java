@@ -1,6 +1,6 @@
 package com.miyu.eurekaclient.userservice;
 
-import com.miyu.model.User;
+import com.miyu.pojo.User;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

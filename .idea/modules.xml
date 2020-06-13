@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/miyu-user-consumer/dm-user-consumer.iml" filepath="$PROJECT_DIR$/miyu-user-consumer/dm-user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-user-provider/eurekaclient.iml" filepath="$PROJECT_DIR$/miyu-user-provider/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-base-consumer/miyu-base-consumer.iml" filepath="$PROJECT_DIR$/miyu-base-consumer/miyu-base-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-base-provider/miyu-base-provider.iml" filepath="$PROJECT_DIR$/miyu-base-provider/miyu-base-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-common-client/miyu-common-client.iml" filepath="$PROJECT_DIR$/miyu-common-client/miyu-common-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-common-dao/miyu-common-dao.iml" filepath="$PROJECT_DIR$/miyu-common-dao/miyu-common-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-common-dto/miyu-common-dto.iml" filepath="$PROJECT_DIR$/miyu-common-dto/miyu-common-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-common-ext-utils/miyu-common-ext-utils.iml" filepath="$PROJECT_DIR$/miyu-common-ext-utils/miyu-common-ext-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-common-model/miyu-common-model.iml" filepath="$PROJECT_DIR$/miyu-common-model/miyu-common-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-common-utils/miyu-common-utils.iml" filepath="$PROJECT_DIR$/miyu-common-utils/miyu-common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-config/miyu-config.iml" filepath="$PROJECT_DIR$/miyu-config/miyu-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-gateway/miyu-gateway.iml" filepath="$PROJECT_DIR$/miyu-gateway/miyu-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-item-consumer/miyu-item-consumer.iml" filepath="$PROJECT_DIR$/miyu-item-consumer/miyu-item-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-item-provider/miyu-item-provider.iml" filepath="$PROJECT_DIR$/miyu-item-provider/miyu-item-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-order-consumer/miyu-order-consumer.iml" filepath="$PROJECT_DIR$/miyu-order-consumer/miyu-order-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-order-provider/miyu-order-provider.iml" filepath="$PROJECT_DIR$/miyu-order-provider/miyu-order-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-pay-consumer/miyu-pay-consumer.iml" filepath="$PROJECT_DIR$/miyu-pay-consumer/miyu-pay-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-pay-provider/miyu-pay-provider.iml" filepath="$PROJECT_DIR$/miyu-pay-provider/miyu-pay-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-schedule-consumer/miyu-schedule-consumer.iml" filepath="$PROJECT_DIR$/miyu-schedule-consumer/miyu-schedule-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-schedule-provider/miyu-schedule-provider.iml" filepath="$PROJECT_DIR$/miyu-schedule-provider/miyu-schedule-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-zipkin-server/miyu-zipkin-server.iml" filepath="$PROJECT_DIR$/miyu-zipkin-server/miyu-zipkin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miyu-registercenter/registercenter.iml" filepath="$PROJECT_DIR$/miyu-registercenter/registercenter.iml" />
+    </modules>
+  </component>
+</project>

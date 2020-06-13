@@ -1,7 +1,7 @@
 package com.miyu.dmuserconsumer.userservice.impl;
 
 import com.miyu.dmuserconsumer.userservice.UserFeignClient;
-import com.miyu.model.User;
+import com.miyu.pojo.User;
 import org.springframework.stereotype.Component;
 
 @Component

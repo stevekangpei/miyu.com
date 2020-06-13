@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.miyu</groupId>
-	<artifactId>miyu-base-provider</artifactId>
+	<artifactId>miyu-base-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>miyu-base-consumer</name>
 	<description>Demo project for Spring Boot</description>

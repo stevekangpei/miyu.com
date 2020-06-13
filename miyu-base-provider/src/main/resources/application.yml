@@ -1,0 +1,23 @@
+server:
+  port: 7002
+
+spring:
+  application:
+    name: miyu-base-provider
+
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/dm_base?useUnicode=true&&characterEncoding=UTF-8
+    username: root
+    password: kpstar918
+    driver-class-name: com.mysql.jdbc.Driver
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:123456@localhost:7776/eureka/
+
+
+moduleName: miyu-base-provider
+
+mybatis:
+  mapper-location: classpath:mapper/*Mapper.xml
